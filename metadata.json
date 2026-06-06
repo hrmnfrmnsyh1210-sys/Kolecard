@@ -1,0 +1,6 @@
+{
+  "name": "CardVault",
+  "description": "A marketplace for collecting and trading cards safely securely. Add items, list offers, and exchange trading cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
